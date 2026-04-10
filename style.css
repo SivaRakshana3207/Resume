@@ -2,6 +2,10 @@ body {
     background-color: #f4f4f4;
 }
 
+.container{
+    border: 2px solid #ddd;
+}
+
 .left {
     background: #0d3b4c;
     color: white;
@@ -46,8 +50,3 @@ body {
     text-decoration: none;
     margin-left: 8px;
 }
-
-.conatct p a:hover {
-    text-decoration: underline;
-}
-
